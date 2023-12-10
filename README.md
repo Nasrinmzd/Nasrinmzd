@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 ```js
 const myInformation = {
   name: 'Nasrin Mamizadeh',
@@ -6,8 +7,10 @@ const myInformation = {
   location: 'Tabriz', 
   university: 'Tabriz University',
   degree: 'Master of Computer Engineering',
-  skills: {html, css, tailwind, js, ...}
-}
+  skills: [html, css, tailwind, js, ...],
+  future:
+    "I am currently learning the React framework to enhance my front-end abilities",
+};
 ```
 ___
 ### About Me:
