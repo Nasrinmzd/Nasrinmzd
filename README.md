@@ -10,7 +10,7 @@ const myInformation = {
 ```
 ___
 ### About Me:
-I am a junior developer with skills in HTML, CSS, tailwind, and JavaScript. Currently, I am learning **React** framework to enhance my front-end abilities.
+I am a junior developer with skills in ***HTML***, ***CSS***, ***tailwind***, and ***JavaScript***. Currently, I am learning ***React*** framework to enhance my front-end abilities.
 ___
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
