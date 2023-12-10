@@ -5,6 +5,7 @@ const myInformation = {
   birthday: '7 June',
   location: 'Tabriz', 
   university: 'Tabriz University',
+  degree: 'Master of Computer Engineering',
   skills: {html, css, tailwind, js, ...}
 }
 ```
