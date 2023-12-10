@@ -21,7 +21,7 @@ const myInformation = {
     <img src="https://img.shields.io/badge/Telegram-@Nasrin_mzd-blue?style=flat&logo=telegram" />
   </a>
   <a href="mailto:nasriiin2016@gmail.com">
-      <img src="https://img.shields.io/badge/Email-nasriiin2016@gmail.com-red?style=flat&logo=gmail" /> 
+      <img src="https://img.shields.io/badge/Email-nasriiin2016@gmail.com-darkred?style=flat&logo=gmail" /> 
   </a>
 </p>
 
