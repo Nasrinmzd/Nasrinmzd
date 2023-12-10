@@ -14,6 +14,20 @@ ___
 I am a junior developer with skills in ***HTML***, ***CSS***, ***tailwind***, and ***JavaScript***. Currently, I am learning ***React*** framework to enhance my front-end abilities.
 ___
 
+#### Concat Me:
+<p>
+  <a href="https://instagram.com/nasrin._.mzd1/">
+    <img src="https://img.shields.io/badge/Instagram-@nasrin._.mzd1-red?style=flat&logo=instagram" />
+  </a>
+  <a href="https://t.me/Nasrin_mzd/">
+    <img src="https://img.shields.io/badge/Telegram-@Nasrin_mzd-blue?style=flat&logo=telegram" />
+  </a>
+  <a href="mailto:nasriiin2016@gmail.com">
+      <img src="https://img.shields.io/badge/Email-nasriiin2016@gmail.com-red?style=flat&logo=gmail" /> 
+  </a>
+</p>
+
+#### Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
