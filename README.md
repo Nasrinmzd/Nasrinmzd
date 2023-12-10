@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+---js
 const myInformation = {
   name: 'Nasrin Mamizadeh',
   birthday: '7 June',
@@ -7,3 +7,4 @@ const myInformation = {
   university: 'Tabriz University',
   skills: {html, css, tailwind, js, ...}
 }
+---
