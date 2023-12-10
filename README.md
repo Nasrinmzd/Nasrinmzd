@@ -12,11 +12,6 @@ const myInformation = {
     "I am currently learning the React framework to enhance my front-end abilities",
 };
 ```
-___
-### About Me:
-I am a junior developer with skills in ***HTML***, ***CSS***, ***tailwind***, and ***JavaScript***. Currently, I am learning ***React*** framework to enhance my front-end abilities.
-___
-
 #### Concat Me:
 <p>
   <a href="https://instagram.com/nasrin._.mzd1/">
