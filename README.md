@@ -2,11 +2,11 @@
 
 ```js
 const myInformation = {
-  name: 'Nasrin Mamizadeh',
-  birthday: '7 June',
-  location: 'Tabriz', 
-  university: 'Tabriz University',
-  degree: 'Master of Computer Engineering',
+  name: "Nasrin Mamizadeh",
+  birthday: "7 June",
+  location: "Tabriz", 
+  university: "Tabriz University",
+  degree: "Master of Computer Engineering",
   skills: [html, css, tailwind, js, ...],
   future:
     "I am currently learning the React framework to enhance my front-end abilities",
