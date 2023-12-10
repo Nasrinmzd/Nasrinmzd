@@ -1,5 +1,5 @@
 ### Hi there 👋
----Javascript
+---JavaScript
 const myInformation = {
   name: 'Nasrin Mamizadeh',
   birthday: '7 June',
