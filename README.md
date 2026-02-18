@@ -8,8 +8,6 @@ const myInformation = {
   university: "Tabriz University",
   degree: "Master of Computer Engineering",
   skills: [html, css, tailwind, js, react ...],
-  future:
-    "I am currently learning the React framework to enhance my front-end abilities",
 };
 ```
 #### Concat Me:
